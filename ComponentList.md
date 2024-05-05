@@ -2,3 +2,4 @@ UIKitBoxOverview
 ComponentOverview
 UIComponents
 LibraryDependencies
+UsagePatterns
