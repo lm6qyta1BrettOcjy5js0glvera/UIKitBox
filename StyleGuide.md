@@ -2,3 +2,4 @@ StylePrinciples
 SetupInstructions
 DesignTokens
 ComponentExamples
+ConfigSettings
