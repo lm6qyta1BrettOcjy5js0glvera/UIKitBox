@@ -3,3 +3,4 @@ SetupInstructions
 DesignTokens
 ComponentExamples
 ConfigSettings
+DesignerGuidelines
