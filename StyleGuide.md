@@ -4,3 +4,4 @@ DesignTokens
 ComponentExamples
 ConfigSettings
 DesignerGuidelines
+LicenseDetails

@@ -5,3 +5,4 @@ LibraryDependencies
 UsagePatterns
 ContributionProcess
 ErrorFixes
+LegalNotes
