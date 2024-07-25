@@ -5,3 +5,4 @@ ComponentExamples
 ConfigSettings
 DesignerGuidelines
 LicenseDetails
+UIDesignFAQ
