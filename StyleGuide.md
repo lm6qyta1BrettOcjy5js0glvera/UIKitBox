@@ -6,3 +6,4 @@ ConfigSettings
 DesignerGuidelines
 LicenseDetails
 UIDesignFAQ
+ComponentUpdates

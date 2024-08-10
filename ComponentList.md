@@ -6,3 +6,4 @@ UsagePatterns
 ContributionProcess
 ErrorFixes
 LegalNotes
+ChangeHistory
