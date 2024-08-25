@@ -7,3 +7,4 @@ ContributionProcess
 ErrorFixes
 LegalNotes
 ChangeHistory
+TestingGuidelines
