@@ -8,3 +8,4 @@ ErrorFixes
 LegalNotes
 ChangeHistory
 TestingGuidelines
+StyleMetrics

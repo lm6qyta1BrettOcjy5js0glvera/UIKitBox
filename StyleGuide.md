@@ -7,3 +7,4 @@ DesignerGuidelines
 LicenseDetails
 UIDesignFAQ
 ComponentUpdates
+UIPerformance
