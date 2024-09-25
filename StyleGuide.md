@@ -8,3 +8,4 @@ LicenseDetails
 UIDesignFAQ
 ComponentUpdates
 UIPerformance
+CommunityResources
